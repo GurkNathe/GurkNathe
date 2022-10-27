@@ -8,15 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=GurkNathe&style=flat-square&color=blue" alt=""/>
 </div>
 
-<a href="https://github-readme-stats.vercel.app/api?username=GurkNathe&show_icons=true&theme=vue-dark%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GurkNathe&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
-</a>
+<br>
 
-## Collection of Repos:
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-| **<a href="https://github.com/GurkNathe/MathIsCool">MathIsCool:** <br><img src="https://tokei.rs/b1/github/GurkNathe/MathIsCool?category=code" /></a>  | **<a href="https://github.com/GurkNathe/Celestialic">Celestialic:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Celestialic?category=code" /></a>                                  | **<a href="https://github.com/GurkNathe/Neural-Network">Neural-Network:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Neural-Network?category=code" /></a> |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **<a href="https://github.com/GurkNathe/Scientific-Computation">Scientific-Computation:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Scientific-Computation?category=code" /></a> | **<a href="https://github.com/GurkNathe/Optimization">Optimization:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Optimization?category=code" /></a> | **<a href="https://github.com/emily-hansen/spotifyme">SpotifyMe:** <br><img src="https://tokei.rs/b1/github/emily-hansen/spotifyme?category=code" /></a>
+---
 
 Here are some ideas to get you started:
 
@@ -28,3 +26,37 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+## Collection of Repos:
+
+<a href="https://github-readme-stats.vercel.app/api?username=GurkNathe&show_icons=true&theme=vue-dark%22%3E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GurkNathe&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
+</a>
+
+| **<div align="center"><a href="https://github.com/GurkNathe/MathIsCool">MathIsCool:** <br><img src="https://github.com/GurkNathe/GurkNathe/blob/main/68747470733a2f2f746f6b65692e72732f62312f6769746875622f4775726b4e617468652f4d6174684973436f6f6c3f63617465676f72793d636f6465.svg" /></a></div> | **<div align="center"><a href="https://github.com/GurkNathe/Celestialic">Celestialic:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Celestialic?category=code" /></a></div> | **<div align="center"><a href="https://github.com/GurkNathe/Neural-Network">Neural-Network:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Neural-Network?category=code" /></a></div> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **<div align="center"><a href="https://github.com/GurkNathe/Scientific-Computation">Scientific-Computation:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Scientific-Computation?category=code" /></a></div> | **<div align="center"><a href="https://github.com/GurkNathe/Optimization">Optimization:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Optimization?category=code" /></a></div> | **<div align="center"><a href="https://github.com/emily-hansen/spotifyme">SpotifyMe:** <br><img src="https://tokei.rs/b1/github/emily-hansen/spotifyme?category=code" /></a></div>
