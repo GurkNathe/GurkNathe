@@ -57,14 +57,13 @@ Here are some ideas to get you started:
 
 ### Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GurkNathe&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurkNathe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GurkNathe&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurkNathe&theme=vision-friendly-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=GurkNathe)](https://github.com/ryo-ma/github-profile-trophy)
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ## Collection of Repos:
-
-<a href="https://github-readme-stats.vercel.app/api?username=GurkNathe&show_icons=true&theme=vue-dark%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GurkNathe&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
-</a>
 
 | **<div align="center"><a href="https://github.com/GurkNathe/MathIsCool">MathIsCool:** <br><img src="https://github.com/GurkNathe/GurkNathe/blob/main/68747470733a2f2f746f6b65692e72732f62312f6769746875622f4775726b4e617468652f4d6174684973436f6f6c3f63617465676f72793d636f6465.svg" /></a></div> | **<div align="center"><a href="https://github.com/GurkNathe/Celestialic">Celestialic:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Celestialic?category=code" /></a></div> | **<div align="center"><a href="https://github.com/GurkNathe/Neural-Network">Neural-Network:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Neural-Network?category=code" /></a></div> |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
