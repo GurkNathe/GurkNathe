@@ -3,9 +3,6 @@
 </a>
 
 ## Main repos:
-https://github.com/GurkNathe/MathIsCool
-https://github.com/GurkNathe/Neural-Network
-https://github.com/GurkNathe/Optimization
 
 | **<a href="https://github.com/GurkNathe/MathIsCool">MathIsCool:** <br><img src="https://tokei.rs/b1/github/GurkNathe/MathIsCool?category=code" /></a>  | **<a href="https://github.com/GurkNathe/Celestialic">Celestialic:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Celestialic?category=code" /></a>                                  | **<a href="https://github.com/GurkNathe/Neural-Network">Neural-Network:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Neural-Network?category=code" /></a> |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
