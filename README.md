@@ -2,6 +2,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GurkNathe&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
 </a>
 
+## Main repos:
+https://github.com/GurkNathe/MathIsCool
+https://github.com/GurkNathe/Neural-Network
+https://github.com/GurkNathe/Optimization
+
+| **<a href="https://github.com/GurkNathe/MathIsCool">MathIsCool:** <br><img src="https://tokei.rs/b1/github/GurkNathe/MathIsCool?category=code" /></a>  | **<a href="https://github.com/GurkNathe/Celestialic">Celestialic:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Celestialic?category=code" /></a>                                  | **<a href="https://github.com/GurkNathe/Neural-Network">Neural-Network:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Neural-Network?category=code" /></a> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **<a href="https://github.com/GurkNathe/Optimization">Optimization:** <br><img src="https://tokei.rs/b1/github/GurkNathe/Optimization?category=code" /></a> |  |
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
