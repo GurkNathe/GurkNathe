@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=GurkNathe&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1 align="center">
+  Ethan Krug
+</h1>
+
 <br>
 
 <div align="center">
@@ -16,16 +20,11 @@
 
 ---
 
-Here are some ideas to get you started:
+### About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I’m currently working on a Minecraft mod.
+- I’m currently learning more about Java and modding in Minecraft.
+- Ask me about any of my repositories, or anything work appropriate.
 
 ---
 
@@ -50,6 +49,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/kirukudenis/readme_icons/blob/master/language_and_tools/square/google-sheet/google-sheet.png" title="Google Sheets" **alt="Google Sheets" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" **alt="Firfox" width="40" height="40"/>
 </div>
 
