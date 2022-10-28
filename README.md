@@ -50,7 +50,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/kirukudenis/readme_icons/blob/master/language_and_tools/square/google-sheet/google-sheet.png" title="Google Sheets" **alt="Google Sheets" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" **alt="Firfox" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" **alt="Firefox" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40" height="40"/>
 </div>
 
 ---
