@@ -22,8 +22,8 @@
 
 ### About Me:
 
-- I’m currently working on a Minecraft mod.
-- I’m currently learning more about Java and modding in Minecraft.
+- I’m currently working on a Pathfinding/Graph Search Visualizer.
+- I’m currently learning more about Python, Graphs, and Pathfinding algorithms.
 - Ask me about any of my repositories, or anything work appropriate.
 
 ---
