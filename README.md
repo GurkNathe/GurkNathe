@@ -60,7 +60,7 @@
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GurkNathe&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GurkNathe&show_icons=true&bg_color=00000000&theme=dark#gh-dark-mode-only)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurkNathe&layout=compact&theme=vision-friendly-dark&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurkNathe&layout=compact&theme=vision-friendly-dark&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Collection of Repos:
 
