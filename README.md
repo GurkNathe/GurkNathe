@@ -22,8 +22,8 @@
 
 ### About Me:
 
-- I’m currently working on a Pathfinding/Graph Search Visualizer.
-- I’m currently learning more about COBOL, Python, Graphs, and Pathfinding algorithms.
+- I’m currently working on my personal website.
+- I’m currently learning more about AI, Tensorflow, and data analysis.
 - Ask me about any of my repositories, or anything work appropriate.
 
 ---
